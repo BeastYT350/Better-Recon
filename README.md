@@ -1,4 +1,4 @@
-#Better-Recon
+##Better-Recon
 
 Better Recon is an advanced Python-based reconnaissance script designed to perform various security checks and information gathering tasks. It integrates multiple tools and techniques, such as WHOIS lookups, DNS lookups, HTTP header checks, link extraction, CMS detection, and much more. This script is designed for ethical hacking, vulnerability assessment, and penetration testing.
 
