@@ -5,25 +5,38 @@ Better Recon is an advanced Python-based reconnaissance script designed to perfo
 Features
 Better Recon offers the following tasks:
 
+
 WordPress Plugin Scan: Scan a website for WordPress plugins and their versions.
+
 WHOIS Lookup: Retrieve WHOIS information of a domain.
+
 DNS Lookup: Perform a DNS lookup to gather domain-related information.
+
 Reverse DNS Lookup: Find the reverse DNS associated with an IP.
+
 HTTP Header Check: Extract and analyze HTTP headers.
+
 Link Extraction: Scrape links from a webpage.
+
 Traceroute: Perform a traceroute to determine the route packets take to a network host.
+
 Ping: Perform a ping test to check the availability of a server.
+
 CMS Detection: Identify the content management system (CMS) used by a website.
+
 Sensitive Data Scraping: Look for emails, API keys, tokens, or other sensitive data on a webpage.
+
 Admin Endpoint Scan: Identify potential admin login endpoints.
+
 Developer Information: Information about the developer of the tool.
+
 Help: A detailed help section explaining the features and usage of the script.
+
 Installation
-To get started with Better Recon, you need to install the dependencies from requirements.txt. Follow the instructions below to install the necessary packages:
 
-Clone or download the repository.
+git clone https://github.com/BeastYT350/Better-Recon.git
+.
 
-Install the required dependencies by running the following command in your terminal:
 
 pip install -r requirements.txt
 
