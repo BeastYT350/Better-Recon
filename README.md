@@ -25,22 +25,16 @@ Clone or download the repository.
 
 Install the required dependencies by running the following command in your terminal:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Usage
 Run the script and choose an option from the menu to perform a reconnaissance task. Here's an example of how to use the script:
 
-bash
-Copy
-Edit
-python better_recon.py
+
+python betterrecon.py
 You will be presented with the following menu:
 
-markdown
-Copy
-Edit
+
 Select a task to perform:
 1. Perform WordPress Plugin Scan
 2. Perform WHOIS Lookup
